@@ -56,11 +56,15 @@ I was able to:
 
 **Programming Assignments:**
 
-Initialization[notebook]()
-Regularization[[notebook]]()
-Gradient Checking[[notebook]]()
-Optimization[[notebook]]()
-Tensorflow Tutorial[[notebook]]()
+Initialization[notebook](https://github.com/edmundtetteh/DeepLearning-Specialization/blob/main/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning%2C%20Regularization/Initialization.ipynb)
+
+Regularization[[notebook]](https://github.com/edmundtetteh/DeepLearning-Specialization/blob/main/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning%2C%20Regularization/Regularization_v2a.ipynb)
+
+Gradient Checking[[notebook]](https://github.com/edmundtetteh/DeepLearning-Specialization/blob/main/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning%2C%20Regularization/Gradient%2BChecking%2Bv1.ipynb)
+
+Optimization[[notebook]](https://github.com/edmundtetteh/DeepLearning-Specialization/blob/main/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning%2C%20Regularization/Optimization_methods_v1b.ipynb)
+
+Tensorflow Tutorial[[notebook]](https://github.com/edmundtetteh/DeepLearning-Specialization/blob/main/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning%2C%20Regularization/TensorFlow_Tutorial_v3b%20(1).ipynb)
 
 
 
@@ -80,13 +84,19 @@ I was able to:
 
 **Programming Assignments:**
 
-Convolutional Model:step by step[[notebook]]()
-Convolution model Application[[notebook]]()
-Keras Tutorial Happy House[[notebook]]()
-Residual Networks[[notebook]]()
-Autonomous driving application Car detection[[notebook]]()
-Art Generation with Neural Style Transfer[[notebook]]()
-Face Recognition for the Happy House[[notebook]]()
+Convolutional Model:step by step[[notebook]](https://github.com/edmundtetteh/DeepLearning-Specialization/blob/main/Convolutional%20Neural%20Networks/Convolution_model_Step_by_Step_v2a%20(1).ipynb)
+
+Convolution model Application[[notebook]](https://github.com/edmundtetteh/DeepLearning-Specialization/blob/main/Convolutional%20Neural%20Networks/Convolution_model_Application_v1a%20(1).ipynb)
+
+Keras Tutorial Happy House[[notebook]](https://github.com/edmundtetteh/DeepLearning-Specialization/blob/main/Convolutional%20Neural%20Networks/Keras_Tutorial_v2a.ipynb)
+
+Residual Networks[[notebook]](https://github.com/edmundtetteh/DeepLearning-Specialization/blob/main/Convolutional%20Neural%20Networks/Residual_Networks_v2a.ipynb)
+
+Autonomous driving application Car detection[[notebook]](https://github.com/edmundtetteh/DeepLearning-Specialization/blob/main/Convolutional%20Neural%20Networks/Autonomous_driving_application_Car_detection_v3a%20(1).ipynb)
+
+Art Generation with Neural Style Transfer[[notebook]](https://github.com/edmundtetteh/DeepLearning-Specialization/blob/main/Convolutional%20Neural%20Networks/Art_Generation_with_Neural_Style_Transfer_v3a%20(4).ipynb)
+
+Face Recognition for the Happy House[[notebook]](https://github.com/edmundtetteh/DeepLearning-Specialization/blob/main/Convolutional%20Neural%20Networks/Face_Recognition_v3a%20(1).ipynb)
 
 **[*Sequence Models*](https://www.coursera.org/learn/nlp-sequence-models)**
 
@@ -102,10 +112,15 @@ I was able to:
 
 **Programming Assignments:**
 
-Building a Recurrent Neural Network Step by Step [notebook] [py]
-Dinosaurus Island Character level language model [notebook] [py]
-Operations on word vectors [notebook] [py]
-Emojify [notebook] [py]
-Neural machine translation with attention [notebook] [py]
-Trigger word detection [notebook] [py]
+Building a Recurrent Neural Network Step by Step[[notebook]](https://github.com/edmundtetteh/DeepLearning-Specialization/blob/main/Building%20your%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step/Building_a_Recurrent_Neural_Network_Step_by_Step_v3b%20(1).ipynb)
+
+Dinosaurus Island Character level language model[[notebook]](https://github.com/edmundtetteh/DeepLearning-Specialization/blob/main/Building%20your%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step/Dinosaurus_Island_Character_level_language_model_final_v3b%20(4).ipynb)
+
+Operations on word vectors[[notebook]](https://github.com/edmundtetteh/DeepLearning-Specialization/blob/main/Building%20your%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step/Operations_on_word_vectors_v2a%20(1).ipynb)
+
+Emojify[[notebook]](https://github.com/edmundtetteh/DeepLearning-Specialization/blob/main/Building%20your%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step/Emojify_v2a%20(1).ipynb)
+
+Neural machine translation with attention[[notebook]](https://github.com/edmundtetteh/DeepLearning-Specialization/blob/main/Building%20your%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step/Neural_machine_translation_with_attention_v4a%20(1).ipynb)
+
+Trigger word detection[[notebook]](https://github.com/edmundtetteh/DeepLearning-Specialization/blob/main/Building%20your%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step/Trigger_word_detection_v1a%20(2).ipynb)
 
