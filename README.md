@@ -31,3 +31,16 @@ In this course, I learnt the foundations of deep learning which encompasses the 
 6. Building your Deep Neural Network Step by Step v3 [[notebook]](https://github.com/edmundtetteh/DeepLearning-Specialization/blob/main/Neural_Network_%26_Deep_learning/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
 
 8. Deep Neural Network Application v3 [[notebook]](https://github.com/edmundtetteh/DeepLearning-Specialization/blob/main/Neural_Network_%26_Deep_learning/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
+
+[**Structuring Machine Learning Projects**](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
+
+I learnt how to build a successfully machine learing project and this course provided me with "industry experience".
+
+I was able to:
+
+Diagnose errors in a machine learning system, and be able to prioritize the most promising directions for reducing error.
+
+Understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance.
+
+Know how to apply end-to-end learning, transfer learning, and multi-task learning.
+
