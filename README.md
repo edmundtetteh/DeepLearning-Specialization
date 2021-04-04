@@ -44,3 +44,68 @@ I was able to:
 
 3. Know how to apply end-to-end learning, transfer learning, and multi-task learning.
 
+[**Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**](https://www.coursera.org/learn/deep-neural-network/home/welcome)
+
+I was able to:
+
+1. Understand industry best-practices for building deep learning applications.
+2. Be able to effectively use the common neural network "tricks", including initialization, L2 and dropout regularization, Batch normalization, gradient checking,
+3. Be able to implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence.
+4. Understand new best-practices for the deep learning era of how to set up train/dev/test sets and analyze bias/variance
+5. Be able to implement a neural network in TensorFlow.
+
+**Programming Assignments:**
+
+Initialization[notebook]()
+Regularization[[notebook]]()
+Gradient Checking[[notebook]]()
+Optimization[[notebook]]()
+Tensorflow Tutorial[[notebook]]()
+
+
+
+[**Convolutional Neural Networks**](https://www.coursera.org/learn/convolutional-neural-networks)
+
+I learnt how to build convolutional neural networks and apply it to image data which span from autonomous driving, to accurate face recognition, to automatic reading of radiology images.
+
+I was able to:
+
+1. Understand how to build a convolutional neural network, including recent variations such as residual networks.
+
+2. Know how to apply convolutional networks to visual detection and recognition tasks.
+
+3. Know to use neural style transfer to generate art.
+
+4. Be able to apply these algorithms to a variety of image, video, and other 2D or 3D data.
+
+**Programming Assignments:**
+
+Convolutional Model:step by step[[notebook]]()
+Convolution model Application[[notebook]]()
+Keras Tutorial Happy House[[notebook]]()
+Residual Networks[[notebook]]()
+Autonomous driving application Car detection[[notebook]]()
+Art Generation with Neural Style Transfer[[notebook]]()
+Face Recognition for the Happy House[[notebook]]()
+
+**[*Sequence Models*](https://www.coursera.org/learn/nlp-sequence-models)**
+
+This course will teach you how to build models for natural language, audio, and other sequence data. Thanks to deep learning, sequence algorithms are working far better than just two years ago, and this is enabling numerous exciting applications in speech recognition, music synthesis, chatbots, machine translation, natural language understanding, and many others.
+
+I was able to:
+
+1. Understand how to build and train Recurrent Neural Networks (RNNs), and commonly-used variants such as GRUs and LSTMs.
+
+2. Be able to apply sequence models to natural language problems, including text synthesis.
+
+3. Be able to apply sequence models to audio applications, including speech recognition and music synthesis.
+
+**Programming Assignments:**
+
+Building a Recurrent Neural Network Step by Step [notebook] [py]
+Dinosaurus Island Character level language model [notebook] [py]
+Operations on word vectors [notebook] [py]
+Emojify [notebook] [py]
+Neural machine translation with attention [notebook] [py]
+Trigger word detection [notebook] [py]
+
