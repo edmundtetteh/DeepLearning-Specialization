@@ -1,5 +1,5 @@
 # DeepLearning-Specialization
-This is my assignment on Andrew Ng's special course "Deep Learning Specialization" This special course consists of five courses:
+This is my assignment on Andrew Ng's special course ["Deep Learning Specialization"](https://www.coursera.org/specializations/deep-learning) This special course consists of five courses:
 
 Neural Networks and Deep Learning  
 Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
